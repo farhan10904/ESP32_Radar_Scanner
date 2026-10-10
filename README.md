@@ -187,13 +187,12 @@ const char* password = "YOUR_WIFI_PASSWORD";
 
 ## Author
 
-**Farhan Ali** — Engineering Student / Embedded Systems Project  
-[GitHub](https://github.com/farhan10904) | [Portfolio](https://pacific-attention-6cd.notion.site/Farhan-Ali-Engineering-Portfolio-2c0495dbdc658028a0decf9447459ea6#367495dbdc65808eb791f741fc051231) | [LinkedIn](https://www.linkedin.com/in/farhan-ali-95047a245/)
+**Muhammed Farhan Ali**
 
-Built as an independent portfolio project to practise ESP32 development, sensor integration, servo control, power setup, and live dashboard creation.
+MEng Mechanical Engineering - University of Leicester
+
+[Engineering Portfolio](https://farhan10904.github.io/engineering-portfolio/) | [GitHub](https://github.com/farhan10904) | [LinkedIn](https://www.linkedin.com/in/farhan-ali-95047a245/)
 
 ## Acknowledgements
 
-Developed with support from Claude by Anthropic and ChatGPT by OpenAI as part of a self-directed engineering project.
-
-AI tools were used for planning support, debugging help, code review, and documentation improvements. The hardware choices, wiring, PID tuning, dashboard layout, and final project direction were decided, reviewed, and understood by the author.
+AI tools were used for planning, debugging assistance, code review, and documentation editing. final validation were performed and reviewed by the author.
